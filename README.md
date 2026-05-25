@@ -108,7 +108,7 @@ Training checkpoints, final adapters, predictions, routing logs, and metrics are
 outputs/expert_moe/
 ```
 
-This directory is intentionally ignored by Git.
+This repository includes saved experiment outputs used for reporting and analysis.
 
 ## Notes
 

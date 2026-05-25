@@ -1,0 +1,57 @@
+{
+  "seed": 42,
+  "train_order": [
+    "en",
+    "de",
+    "nl",
+    "fr"
+  ],
+  "trajectory": [
+    {
+      "step": 1,
+      "trained_on": "en",
+      "model_path": "/crex/proj/uppmax2026-1-123/private/yaxj1/mt_oil_no_moe/outputs/expert_moe/models/sequential_forgetting_full/seed42/step1_en/final_model",
+      "en_bleu": 0.5511156039637561,
+      "en_chrf": 74.9148557490068
+    },
+    {
+      "step": 2,
+      "trained_on": "de",
+      "model_path": "/crex/proj/uppmax2026-1-123/private/yaxj1/mt_oil_no_moe/outputs/expert_moe/models/sequential_forgetting_full/seed42/step2_de/final_model",
+      "en_bleu": 0.5525137832699244,
+      "en_chrf": 74.74214745171727,
+      "de_bleu": 0.5201951759854356,
+      "de_chrf": 72.46936640559979
+    },
+    {
+      "step": 3,
+      "trained_on": "nl",
+      "model_path": "/crex/proj/uppmax2026-1-123/private/yaxj1/mt_oil_no_moe/outputs/expert_moe/models/sequential_forgetting_full/seed42/step3_nl/final_model",
+      "en_bleu": 0.5535218473141263,
+      "en_chrf": 74.83704735913601,
+      "nl_bleu": 0.5385075259208353,
+      "nl_chrf": 73.66548451809582
+    },
+    {
+      "step": 4,
+      "trained_on": "fr",
+      "model_path": "/crex/proj/uppmax2026-1-123/private/yaxj1/mt_oil_no_moe/outputs/expert_moe/models/sequential_forgetting_full/seed42/step4_fr/final_model",
+      "en_bleu": 0.5615008085855289,
+      "en_chrf": 75.34734881466063,
+      "fr_bleu": 0.5361718968290248,
+      "fr_chrf": 72.96833760479025,
+      "en_final_bleu": 0.5615008085855289,
+      "en_final_chrf": 75.34734881466063,
+      "de_final_bleu": 0.5173889642623983,
+      "de_final_chrf": 72.34290100074409,
+      "nl_final_bleu": 0.5373058642185656,
+      "nl_final_chrf": 73.54247400853923
+    }
+  ],
+  "delta_forget_bleu": -0.010385204621772726,
+  "delta_forget_chrf": -0.43249306565382994,
+  "en_bleu_after_en": 0.5511156039637561,
+  "en_bleu_after_fr": 0.5615008085855289,
+  "en_chrf_after_en": 74.9148557490068,
+  "en_chrf_after_fr": 75.34734881466063
+}

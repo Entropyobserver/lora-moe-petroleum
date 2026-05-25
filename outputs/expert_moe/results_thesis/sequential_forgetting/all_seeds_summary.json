@@ -1,0 +1,146 @@
+[
+  {
+    "seed": 42,
+    "train_order": [
+      "en",
+      "de",
+      "nl",
+      "fr"
+    ],
+    "trajectory": [
+      {
+        "step": 1,
+        "trained_on": "en",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed42/step1_en/final_model",
+        "en_bleu": 0.6241477019932684,
+        "en_chrf": 79.57790351910577
+      },
+      {
+        "step": 2,
+        "trained_on": "de",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed42/step2_de/final_model",
+        "en_bleu": 0.6279028554442375,
+        "en_chrf": 79.88023414235045,
+        "de_bleu": 0.6043119119388056,
+        "de_chrf": 77.85010359173452
+      },
+      {
+        "step": 3,
+        "trained_on": "nl",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed42/step3_nl/final_model",
+        "en_bleu": 0.635058263910845,
+        "en_chrf": 80.24090387791495,
+        "nl_bleu": 0.6179199855162522,
+        "nl_chrf": 78.81327516332016
+      },
+      {
+        "step": 4,
+        "trained_on": "fr",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed42/step4_fr/final_model",
+        "en_bleu": 0.6368458775685701,
+        "en_chrf": 80.34263279410095,
+        "fr_bleu": 0.6082397321769222,
+        "fr_chrf": 78.11372009673805
+      }
+    ],
+    "delta_forget_bleu": -0.012698175575301729,
+    "en_bleu_after_en": 0.6241477019932684,
+    "en_bleu_after_fr": 0.6368458775685701
+  },
+  {
+    "seed": 123,
+    "train_order": [
+      "en",
+      "de",
+      "nl",
+      "fr"
+    ],
+    "trajectory": [
+      {
+        "step": 1,
+        "trained_on": "en",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed123/step1_en/final_model",
+        "en_bleu": 0.6234937316218364,
+        "en_chrf": 79.5398488910609
+      },
+      {
+        "step": 2,
+        "trained_on": "de",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed123/step2_de/final_model",
+        "en_bleu": 0.625017343592225,
+        "en_chrf": 79.67219401787183,
+        "de_bleu": 0.6020380427832099,
+        "de_chrf": 77.72026511573577
+      },
+      {
+        "step": 3,
+        "trained_on": "nl",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed123/step3_nl/final_model",
+        "en_bleu": 0.6270704971523878,
+        "en_chrf": 79.85541439102991,
+        "nl_bleu": 0.6208280252498783,
+        "nl_chrf": 78.94829419759122
+      },
+      {
+        "step": 4,
+        "trained_on": "fr",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed123/step4_fr/final_model",
+        "en_bleu": 0.6354556743259882,
+        "en_chrf": 80.23090137986433,
+        "fr_bleu": 0.6094449895814192,
+        "fr_chrf": 78.17814332400535
+      }
+    ],
+    "delta_forget_bleu": -0.01196194270415174,
+    "en_bleu_after_en": 0.6234937316218364,
+    "en_bleu_after_fr": 0.6354556743259882
+  },
+  {
+    "seed": 456,
+    "train_order": [
+      "en",
+      "de",
+      "nl",
+      "fr"
+    ],
+    "trajectory": [
+      {
+        "step": 1,
+        "trained_on": "en",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed456/step1_en/final_model",
+        "en_bleu": 0.6222467640166781,
+        "en_chrf": 79.50009020222836
+      },
+      {
+        "step": 2,
+        "trained_on": "de",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed456/step2_de/final_model",
+        "en_bleu": 0.6231243516282143,
+        "en_chrf": 79.70652816943395,
+        "de_bleu": 0.6029121009227725,
+        "de_chrf": 77.8258484629768
+      },
+      {
+        "step": 3,
+        "trained_on": "nl",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed456/step3_nl/final_model",
+        "en_bleu": 0.631258962764118,
+        "en_chrf": 80.006977249208,
+        "nl_bleu": 0.6186019005750243,
+        "nl_chrf": 78.86435959441815
+      },
+      {
+        "step": 4,
+        "trained_on": "fr",
+        "model_path": "/crex/proj/uppmax2025-3-5/private/yaxj1/mt_oil_no/70_models/sequential_forgetting/seed456/step4_fr/final_model",
+        "en_bleu": 0.6357286540938011,
+        "en_chrf": 80.23519065635465,
+        "fr_bleu": 0.6079299938311574,
+        "fr_chrf": 78.23648314248499
+      }
+    ],
+    "delta_forget_bleu": -0.013481890077122971,
+    "en_bleu_after_en": 0.6222467640166781,
+    "en_bleu_after_fr": 0.6357286540938011
+  }
+]

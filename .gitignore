@@ -12,7 +12,6 @@ __pycache__/
 venv/
 env/
 
-outputs/
 trained_models/
 checkpoints/
 **/checkpoint-*/

@@ -1,0 +1,57 @@
+{
+  "seed": 456,
+  "train_order": [
+    "en",
+    "de",
+    "nl",
+    "fr"
+  ],
+  "trajectory": [
+    {
+      "step": 1,
+      "trained_on": "en",
+      "model_path": "/crex/proj/uppmax2026-1-123/private/yaxj1/mt_oil_no_moe/outputs/expert_moe/models/sequential_forgetting_full/seed456/step1_en/final_model",
+      "en_bleu": 0.5509997351998945,
+      "en_chrf": 74.92008586098521
+    },
+    {
+      "step": 2,
+      "trained_on": "de",
+      "model_path": "/crex/proj/uppmax2026-1-123/private/yaxj1/mt_oil_no_moe/outputs/expert_moe/models/sequential_forgetting_full/seed456/step2_de/final_model",
+      "en_bleu": 0.5524081906476142,
+      "en_chrf": 74.789501340255,
+      "de_bleu": 0.519802420668088,
+      "de_chrf": 72.45422533359321
+    },
+    {
+      "step": 3,
+      "trained_on": "nl",
+      "model_path": "/crex/proj/uppmax2026-1-123/private/yaxj1/mt_oil_no_moe/outputs/expert_moe/models/sequential_forgetting_full/seed456/step3_nl/final_model",
+      "en_bleu": 0.5534698895793789,
+      "en_chrf": 74.80332208097177,
+      "nl_bleu": 0.5397395306583478,
+      "nl_chrf": 73.70032317590616
+    },
+    {
+      "step": 4,
+      "trained_on": "fr",
+      "model_path": "/crex/proj/uppmax2026-1-123/private/yaxj1/mt_oil_no_moe/outputs/expert_moe/models/sequential_forgetting_full/seed456/step4_fr/final_model",
+      "en_bleu": 0.5606030141267048,
+      "en_chrf": 75.34793202604678,
+      "fr_bleu": 0.5351436915825265,
+      "fr_chrf": 72.89088750118333,
+      "en_final_bleu": 0.5606030141267048,
+      "en_final_chrf": 75.34793202604678,
+      "de_final_bleu": 0.5154645987543706,
+      "de_final_chrf": 72.27146564150055,
+      "nl_final_bleu": 0.5385734069230056,
+      "nl_final_chrf": 73.65127690418556
+    }
+  ],
+  "delta_forget_bleu": -0.009603278926810233,
+  "delta_forget_chrf": -0.4278461650615668,
+  "en_bleu_after_en": 0.5509997351998945,
+  "en_bleu_after_fr": 0.5606030141267048,
+  "en_chrf_after_en": 74.92008586098521,
+  "en_chrf_after_fr": 75.34793202604678
+}
