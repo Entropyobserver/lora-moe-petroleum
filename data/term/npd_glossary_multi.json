@@ -1,0 +1,422 @@
+{
+  "nmVOC (non-methane Volatile Organic Compounds)": {
+    "no": "nmVOC (non methane Volatile Organic Compounds)",
+    "de": "nmVOC (nicht-methanhaltige flüchtige organische Verbindungen)",
+    "fr": "nmVOC (composés organiques volatils non méthaniques)",
+    "nl": "nmVOC (niet-methaan vluchtige organische stoffen)"
+  },
+  "Originally, recoverable petroleum volumes": {
+    "no": "Opprinnelig utvinnbare petroleumsmengder",
+    "de": "Ursprünglich gewinnbare Erdöl- und Erdgasvolumina",
+    "fr": "Volumes de pétrole récupérables à l’origine",
+    "nl": "Oorspronkelijk winbare aardolievolumes"
+  },
+  "Seismic (geophysical) investigations": {
+    "no": "Seismiske (geofysiske) undersøkelser",
+    "de": "Seismische (geophysikalische) Untersuchungen",
+    "fr": "Investigations sismiques (géophysiques)",
+    "nl": "Seismische (geofysische) onderzoeken"
+  },
+  "LPG (Liquefied Petroleum Gases)": {
+    "no": "LPG (Liquefied Petroleum Gases)",
+    "de": "LPG (Flüssiggas)",
+    "fr": "GPL (gaz de pétrole liquéfié)",
+    "nl": "LPG (vloeibaar petroleumgas)"
+  },
+  "Zero emissions and discharges": {
+    "no": "Nullutslipp",
+    "de": "Null-Emissionen und -Einleitungen",
+    "fr": "Zéro émission et rejet",
+    "nl": "Nul emissies en lozingen"
+  },
+  "CNG (Compressed Natural Gas)": {
+    "no": "CNG (Compressed Natural Gas)",
+    "de": "CNG (komprimiertes Erdgas)",
+    "fr": "GNC (gaz naturel comprimé)",
+    "nl": "CNG (gecomprimeerd aardgas)"
+  },
+  "EOR (Enhanced Oil Recovery)": {
+    "no": "EOR (Enhanced Oil Recovery)",
+    "de": "EOR (Erweiterte Erdölgewinnung)",
+    "fr": "EOR (récupération assistée du pétrole)",
+    "nl": "EOR (Enhanced Oil Recovery / verbeterde olieproductie)"
+  },
+  "LNG (Liquefied Natural Gas)": {
+    "no": "LNG (Liquefied Natural Gas)",
+    "de": "LNG (Flüssigerdgas)",
+    "fr": "GNL (gaz naturel liquéfié)",
+    "nl": "LNG (vloeibaar aardgas)"
+  },
+  "NGL (Natural Gas Liquids)": {
+    "no": "NGL (Natural Gas Liquids)",
+    "de": "NGL (Erdgasflüssigkeiten)",
+    "fr": "LGN (liquides de gaz naturel)",
+    "nl": "NGL (aardgasvloeistoffen)"
+  },
+  "Probability of discovery": {
+    "no": "Funnsannsynlighet",
+    "de": "Fundwahrscheinlichkeit",
+    "fr": "Probabilité de découverte",
+    "nl": "Ontdekkingskans"
+  },
+  "Oil equivalents (o.e.)": {
+    "no": "Oljeekvivalent (o.e.)",
+    "de": "Öläquivalente (ÖE)",
+    "fr": "Équivalent pétrole (e.p.)",
+    "nl": "Olie-equivalent (o.e.)"
+  },
+  "Undiscovered resources": {
+    "no": "Uoppdagede ressurser",
+    "de": "Unentdeckte Ressourcen",
+    "fr": "Ressources non découvertes",
+    "nl": "Onontdekte hulpbronnen"
+  },
+  "Contingent resources": {
+    "no": "Betingede ressurser",
+    "de": "Bedingte Ressourcen",
+    "fr": "Ressources contingentes",
+    "nl": "Voorwaardelijke hulpbronnen"
+  },
+  "Integrated operation": {
+    "no": "Integrerte operasjoner",
+    "de": "Integrierte Operationen",
+    "fr": "Opérations intégrées",
+    "nl": "Geïntegreerde operaties"
+  },
+  "Drilling programme": {
+    "no": "Boreprogram",
+    "de": "Bohrprogramm",
+    "fr": "Programme de forage",
+    "nl": "Boorprogramma"
+  },
+  "Petroleum register": {
+    "no": "Petroleumsregisteret",
+    "de": "Erdölregister",
+    "fr": "Registre pétrolier",
+    "nl": "Petroleumregister"
+  },
+  "Petroleum activity": {
+    "no": "Petroleumsvirksomhet",
+    "de": "Petroleumstätigkeit",
+    "fr": "Activité pétrolière",
+    "nl": "Petroleumactiviteiten"
+  },
+  "Production licence": {
+    "no": "Utvinningstillatelse",
+    "de": "Förderlizenz",
+    "fr": "Licence de production",
+    "nl": "Productievergunning"
+  },
+  "Moveable facility": {
+    "no": "Flyttbar innretning",
+    "de": "Mobile Anlage",
+    "fr": "Installation mobile",
+    "nl": "Verplaatsbare installatie"
+  },
+  "Discovery success": {
+    "no": "Funnrate",
+    "de": "Fundrate",
+    "fr": "Taux de découverte",
+    "nl": "Ontdekkingssucces"
+  },
+  "Continental shelf": {
+    "no": "Kontinentalsokkelen",
+    "de": "Kontinentalschelf",
+    "fr": "Plateau continental",
+    "nl": "Continentaal plat"
+  },
+  "Petroleum deposit": {
+    "no": "Petroleumsforekomst",
+    "de": "Petroleumslagerstätte",
+    "fr": "Gisement pétrolier",
+    "nl": "Petroleumafzetting"
+  },
+  "Termination plan": {
+    "no": "Avslutningsplan",
+    "de": "Stilllegungsplan",
+    "fr": "Plan de cessation",
+    "nl": "Beëindigingsplan"
+  },
+  "Multibranch well": {
+    "no": "Flergreinsbrønn",
+    "de": "Mehrzweigbohrung",
+    "fr": "Puits multilatéral",
+    "nl": "Multilaterale put"
+  },
+  "Shallow borehole": {
+    "no": "Grunne borehull",
+    "de": "Flaches Bohrloch",
+    "fr": "Forage peu profond",
+    "nl": "Ondiep boorgat"
+  },
+  "Licensed acreage": {
+    "no": "Konsesjonsbelagt område",
+    "de": "Lizenzgebiet",
+    "fr": "Zone sous licence",
+    "nl": "Vergund gebied"
+  },
+  "Exploration well": {
+    "no": "Letebrønn",
+    "de": "Explorationsbohrung",
+    "fr": "Puits d’exploration",
+    "nl": "Exploratieput"
+  },
+  "Observation well": {
+    "no": "Observasjonsbrønn",
+    "de": "Beobachtungsbohrung",
+    "fr": "Puits d’observation",
+    "nl": "Observatieput"
+  },
+  "Oblique drilling": {
+    "no": "Skråboring",
+    "de": "Schrägbohrung",
+    "fr": "Forage dévié",
+    "nl": "Schuin boren"
+  },
+  "Licensing round": {
+    "no": "Konsesjonsrunde",
+    "de": "Lizenzierungsrunde",
+    "fr": "Cycle de licences",
+    "nl": "Vergunningsronde"
+  },
+  "Production well": {
+    "no": "Produksjonsbrønn",
+    "de": "Produktionsbohrung",
+    "fr": "Puits de production",
+    "nl": "Productieput"
+  },
+  "Branch drilling": {
+    "no": "Sideboring",
+    "de": "Seitenbohrung",
+    "fr": "Forage latéral",
+    "nl": "Zijboring"
+  },
+  "Recovery factor": {
+    "no": "Utvinningsgrad",
+    "de": "Gewinnungsfaktor",
+    "fr": "Facteur de récupération",
+    "nl": "Winningsfactor"
+  },
+  "Associated gas": {
+    "no": "Assosiert gass",
+    "de": "Begleitgas",
+    "fr": "Gaz associé",
+    "nl": "Geassocieerd gas"
+  },
+  "Appraisal well": {
+    "no": "Avgrensningsbrønn",
+    "de": "Abgrenzungsbohrung",
+    "fr": "Puits d’évaluation",
+    "nl": "Afgrenzingsput"
+  },
+  "Fixed facility": {
+    "no": "Fast innretning",
+    "de": "Feste Anlage",
+    "fr": "Installation fixe",
+    "nl": "Vaste installatie"
+  },
+  "Abandoned well": {
+    "no": "Oppgitt brønn",
+    "de": "Aufgegebene Bohrung",
+    "fr": "Puits abandonné",
+    "nl": "Verlaten put"
+  },
+  "Barrel of oil": {
+    "no": "Fat olje",
+    "de": "Ölfass",
+    "fr": "Baril de pétrole",
+    "nl": "Olievat"
+  },
+  "Petroleum Act": {
+    "no": "Petroleumsloven",
+    "de": "Erdölgesetz",
+    "fr": "Loi sur le pétrole",
+    "nl": "Petroleumwet"
+  },
+  "Recovery well": {
+    "no": "Utvinningsbrønn",
+    "de": "Förderbohrung",
+    "fr": "Puits de récupération",
+    "nl": "Winningsput"
+  },
+  "Hydrocarbons": {
+    "no": "Hydrokarboner",
+    "de": "Kohlenwasserstoffe",
+    "fr": "Hydrocarbures",
+    "nl": "Koolwaterstoffen"
+  },
+  "Cold flaring": {
+    "no": "Kaldventilering",
+    "de": "Kaltabfackeln",
+    "fr": "Torchage à froid",
+    "nl": "Koud affakkelen"
+  },
+  "Wildcat well": {
+    "no": "Undersøkelsesbrønn",
+    "de": "Wildcat-Bohrung",
+    "fr": "Puits d’exploration sauvage",
+    "nl": "Wildcat-put"
+  },
+  "E-operation": {
+    "no": "E-drift",
+    "de": "E-Betrieb",
+    "fr": "Exploitation électronique",
+    "nl": "E-operatie"
+  },
+  "Core sample": {
+    "no": "Kjerneprøve",
+    "de": "Kernprobe",
+    "fr": "Carotte",
+    "nl": "Kernmonster"
+  },
+  "Natural gas": {
+    "no": "Naturgass",
+    "de": "Erdgas",
+    "fr": "Gaz naturel",
+    "nl": "Aardgas"
+  },
+  "Well track": {
+    "no": "Brønnspor",
+    "de": "Bohrspur",
+    "fr": "Trajectoire de puits",
+    "nl": "Putspoor"
+  },
+  "Condensate": {
+    "no": "Kondensat",
+    "de": "Kondensat",
+    "fr": "Condensat",
+    "nl": "Condensaat"
+  },
+  "Well path": {
+    "no": "Brønnbane",
+    "de": "Bohrpfad",
+    "fr": "Cheminement du puits",
+    "nl": "Putbaan"
+  },
+  "Discovery": {
+    "no": "Funn",
+    "de": "Fund",
+    "fr": "Découverte",
+    "nl": "Vondst"
+  },
+  "Petroleum": {
+    "no": "Petroleum",
+    "de": "Erdöl",
+    "fr": "Pétrole",
+    "nl": "Petroleum"
+  },
+  "Crude oil": {
+    "no": "Råolje",
+    "de": "Rohöl",
+    "fr": "Pétrole brut",
+    "nl": "Ruwe olie"
+  },
+  "Area fee": {
+    "no": "Arealavgift",
+    "de": "Flächengebühr",
+    "fr": "Redevance de superficie",
+    "nl": "Oppervlakteheffing"
+  },
+  "Operator": {
+    "no": "Operatør",
+    "de": "Betreiber",
+    "fr": "Opérateur",
+    "nl": "Operator"
+  },
+  "Prospect": {
+    "no": "Prospekt",
+    "de": "Explorationsziel",
+    "fr": "Prospect",
+    "nl": "Prospect"
+  },
+  "Refining": {
+    "no": "Raffinering",
+    "de": "Raffination",
+    "fr": "Raffinage",
+    "nl": "Raffinage"
+  },
+  "Reserves": {
+    "no": "Reserver",
+    "de": "Reserven",
+    "fr": "Réserves",
+    "nl": "Reserves"
+  },
+  "Licensee": {
+    "no": "Rettighetshaver",
+    "de": "Lizenznehmer",
+    "fr": "Titulaire de licence",
+    "nl": "Vergunninghouder"
+  },
+  "Rich gas": {
+    "no": "Rikgass",
+    "de": "Reichgas",
+    "fr": "Gaz riche",
+    "nl": "Rijk gas"
+  },
+  "Blow-out": {
+    "no": "Utblåsing",
+    "de": "Blowout",
+    "fr": "Éruption incontrôlée",
+    "nl": "Blow-out"
+  },
+  "Recovery": {
+    "no": "Utvinning",
+    "de": "Gewinnung",
+    "fr": "Récupération",
+    "nl": "Winning"
+  },
+  "CO2 tax": {
+    "no": "CO2-avgift",
+    "de": "CO₂-Steuer",
+    "fr": "Taxe CO₂",
+    "nl": "CO₂-heffing"
+  },
+  "Flaring": {
+    "no": "Fakling",
+    "de": "Abfackeln",
+    "fr": "Torchage",
+    "nl": "Affakkelen"
+  },
+  "Royalty": {
+    "no": "Produksjonsavgift",
+    "de": "Förderabgabe",
+    "fr": "Redevance",
+    "nl": "Royalty"
+  },
+  "Dry gas": {
+    "no": "Tørrgass",
+    "de": "Trockengas",
+    "fr": "Gaz sec",
+    "nl": "Droog gas"
+  },
+  "Wet gas": {
+    "no": "Våtgass",
+    "de": "Nassgas",
+    "fr": "Gaz humide",
+    "nl": "Nat gas"
+  },
+  "Awards": {
+    "no": "Tildelinger",
+    "de": "Zuteilungen",
+    "fr": "Attributions",
+    "nl": "Toekenningen"
+  },
+  "Kick": {
+    "no": "Brønnspark",
+    "de": "Bohrkick",
+    "fr": "Kick de puits",
+    "nl": "Kick"
+  },
+  "PIO": {
+    "no": "PAD",
+    "de": "PIO (Plan für Installation und Betrieb)",
+    "fr": "PIO (Plan d’installation et d’exploitation)",
+    "nl": "PIO (Plan voor installatie en exploitatie)"
+  },
+  "PDO": {
+    "no": "PUD",
+    "de": "PDO (Plan für Entwicklung und Betrieb)",
+    "fr": "PDO (Plan de développement et d’exploitation)",
+    "nl": "PDO (Plan voor ontwikkeling en exploitatie)"
+  }
+}

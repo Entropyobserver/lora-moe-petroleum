@@ -1,0 +1,40 @@
+backbone: "facebook/nllb-200-distilled-600M"
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.1
+  target_modules: ["q_proj", "v_proj", "k_proj", "out_proj"]
+
+training:
+  lr: 0.0005
+  batch_size: 8
+  gradient_accumulation: 4
+  num_epochs: 5
+  warmup_steps: 200
+  eval_steps: 200
+  weight_decay: 0.01
+  early_stopping_patience: 3
+  seeds: [42, 123, 456]
+
+data:
+  en:
+    src_lang: "en"
+    train: "data/final_splits_npd/train.json"
+    val: "data/final_splits_npd/val.json"
+    test: "data/final_splits_npd/test.json"
+  de:
+    src_lang: "de"
+    train: "data/gpt_filtered/de_no/train.json"
+    val: "data/gpt_filtered/de_no/val.json"
+    test: "data/gpt_filtered/de_no/test.json"
+  fr:
+    src_lang: "fr"
+    train: "data/gpt_filtered/fr_no/train.json"
+    val: "data/gpt_filtered/fr_no/val.json"
+    test: "data/gpt_filtered/fr_no/test.json"
+  nl:
+    src_lang: "nl"
+    train: "data/gpt_filtered/nl_no/train.json"
+    val: "data/gpt_filtered/nl_no/val.json"
+    test: "data/gpt_filtered/nl_no/test.json"
